@@ -1,0 +1,1 @@
+The iOS system is very power-efficient, few programs can be secretly run in the background, and the average standby lasts 2-3 hours using only 1% of the battery. Because iOS is a closed system, security is very high. Moreover, iOS system updates frequently.

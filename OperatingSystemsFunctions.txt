@@ -1,2 +1,3 @@
 The iOS system is very power-efficient, few programs can be secretly run in the background, and the average standby lasts 2-3 hours using only 1% of the battery. Because iOS is a closed system, security is very high. Moreover, iOS system updates frequently.
 Android is an open source system. It allows modification and customization. Android system has a powerful software download support. But at the same time, the open system security risks are very big.
+Windows 10 is designed to adapt its user interface based on the type of device used and available input methods. Windows 10 has side-by-side split-screen apps that select any open window and then drag and flick it to the side of the screen.
